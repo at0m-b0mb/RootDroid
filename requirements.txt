@@ -1,0 +1,5 @@
+rich>=15.0.0
+mtkclient>=0.0.62
+pyusb>=1.2.1
+lz4>=4.3.2
+requests>=2.31.0
